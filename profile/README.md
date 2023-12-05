@@ -18,4 +18,3 @@
 <br/>
  
 Nosso Linketree: https://linktr.ee/germinne
-<img width="100%"
