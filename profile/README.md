@@ -1,6 +1,12 @@
 <div align="center"><h1>Germinne 🪴🌱</h1>
   
-<img width="100%"> ![Capa Germinne](https://github.com/GermineCompany/.github/assets/82835307/875ac7d8-8567-4df5-81fa-f6e8236372cc) </img>
+
+<img width="100%">
+
+![Banner Github (1)](https://github.com/GermineCompany/.github/assets/82835307/8d51549b-8c5e-4db9-9668-a4cc3b26643f)
+
+
+</img>
 </div>
 
 <br/>
@@ -12,7 +18,12 @@
    </p>
    <h2>Quem cultivou a Germinne?</h2>
 
-  <img width="100%"> ![Slides de Apresentação - Germinne](https://github.com/GermineCompany/.github/assets/82835307/5473a74d-f5e9-4139-a1d2-bf2a3ad234c5) </img>
+  <img width="100%">
+
+  
+  ![Slides de Apresentação - Germinne](https://github.com/GermineCompany/.github/assets/82835307/4101e08f-b1e9-46f8-88e2-c37df57bc3e1)
+
+  </img>
 </div>
 
 <br/>
